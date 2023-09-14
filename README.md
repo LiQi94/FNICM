@@ -5,6 +5,9 @@ If you used this tool, please cite our article.
 Statement of Use    
     The FNICM software is provided for research purposes only. For commercial use, please contact me at nikki77liqi@163.com.  
 
+Download  
+    Please click the link at https://github.com/LiQi94/FNICM/archive/refs/heads/main.zip to download the FNICM software and other files.  
+
 Usage  
 The software doesn’t require installation and simply double-click the ‘FNICM.exe’ to open it. Then you can see the opened window in your desktop.   
 ![image](https://github.com/LiQi94/FNICM/blob/main/images/Figure1.png)  
