@@ -9,7 +9,7 @@ If you used this tool, please cite our article.
     Please click the link at https://github.com/LiQi94/FNICM/archive/refs/heads/main.zip to download the FNICM software and other files.  
 
 **Usage**  
-The software doesn’t require installation and simply double-click the ‘FNICM.exe’ to open it. Then you can see the opened window in your desktop.   
+The software doesn’t require installation and simply double-click the ‘FNICM.exe’ to open it (Compatible exclusively with the Windows operating system). Then you can see the opened window in your desktop.   
 ![image](https://github.com/LiQi94/FNICM/blob/main/images/Figure1.png)  
  
 Next, you can easily obtain the results after the following three steps.  
